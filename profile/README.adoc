@@ -4,8 +4,8 @@ image::https://github.com/tbt-post/tbtapi-docs/blob/master/images/tbt-logo-full.
 
 **TBT Cloud** is a turnkey cloud solution to handle retail, warehousing and e-commerce businesses. 
 
-Initially built as an enterprise solution for Kasta.UA (ex modnaKasta) during its digital transformation.
-The platform empowers different on-line projects by providing all-in-one toolchain and standalone features to drive retail and warehousing in Eastern Europe.
+Initially built as an enterprise solution for kasta.ua (ex modnakasta) during its digital transformation.
+To day the platform empowers different on-line projects by providing all-in-one toolchain and standalone features to drive retail and warehousing in Eastern Europe.
 
 For a public market TBT Cloud supplies SaaS-es to carry on warehousing and logistic (WMS), 
 manage branches and deliveries (BMS) and also wide range of other tools together with builtins 
