@@ -1,6 +1,6 @@
 = TBT Cloud
 
-image::https://github.com/tbt-post/tbtapi-docs/blob/master/images/tbt-logo-full.png[TBT Cloud,400,role="right"]
+image::/TBT-Cloud-icon-512px.png[TBT Cloud,200,role="right"]
 
 **TBT Cloud** is the turnkey cloud solution to boost and empower retail, warehousing and e-commerce businesses. 
 
