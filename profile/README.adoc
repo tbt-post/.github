@@ -11,4 +11,8 @@ For a public market **TBT Cloud** supplies SaaS-es to carry on warehousing and l
 manage branches and deliveries (**BMS**) and also wide range of other tools together with builtins 
 for **financial integrations** accomplished by own **deep expertise**.
 
-Follow us on https://www.linkedin.com/products/tbt-cloud/[LinkedIn] to stay informed and to get fresh insights.
+From 2022 **TBT Cloud** is a part of https://github.com/dkdhub[**DKDHUB**]. All repositories under this project are frozen and are the subject of migration to the https://github.com/dkdhub[Main DKDHUB repository]
+
+Please see more on https://www.linkedin.com/products/updcon-dkdhub/[product page on LinkedIn]
+
+All the dedicated instances of TBT Cloud reamain operational till the end of 2023.
